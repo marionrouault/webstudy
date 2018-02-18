@@ -13,17 +13,21 @@ The file regressions.R will reproduce the panels of the figures in the paper by 
 
 The paths in this script require altering to point to the relevant folder in your local version of the repository. You would alter:
 
+```
 setwd("/Users/marion/Desktop/PDOC/WebStudyMetacog/Data/ExperimentII")
+```
 
 to
 
+```
 setwd("/pathToGitHubRepo/Data/ExperimentII")
+```
 
 We make use of the following packages under R:
 
-lme4 (http://cran.r-project.org/web/packages/lme4)
-doBy (https://cran.r-project.org/web/packages/doBy/index.html)
-R.matlab (https://cran.r-project.org/web/packages/R.matlab/index.html)
+- [lme4](http://cran.r-project.org/web/packages/lme4)
+- [doBy](https://cran.r-project.org/web/packages/doBy/index.html)
+- [R.matlab](https://cran.r-project.org/web/packages/R.matlab/index.html)
 
 License
 
