@@ -1,4 +1,4 @@
-# RouaultSeowGillanFleming # https://github.com/metacoglab/RouaultSeowGillanFleming
+# RouaultSeowGillanFleming
 
 This repository contains analysis code for the following paper:
 
