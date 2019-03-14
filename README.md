@@ -6,10 +6,14 @@ Rouault, Seow, Gillan & Fleming (2018) Psychiatric symptom dimensions are associ
 
 Anonymised behavioral data files are included in the repository to enable replication of data analyses and rapid generation of the figures in the paper.
 
-The file regressions.R will reproduce the panels of the figures in the paper by performing the regressions and the factor analysis, loading in .mat and .csv files containing relevant behavioral data:
+The file regressions.R will reproduce the panels of the figures in the paper by performing the regressions and the factor analysis on Experiment 2, loading in .mat and .csv files containing relevant behavioral data:
 - The metacognition task data for all subjects: ME_phase2_excludanalyseddata_all.mat.
 - The questionnaire data for all subjects: ME_phase2_excludqnadata_all.mat.
 - The fitted HDDM parameters for all subjects: subjParams_2k_3chain.csv.
+
+We also provide for Experiment 1:
+- The metacognition task data for all subjects: ME_phase1_excludanalyseddata_all.mat.
+- The questionnaire data for all subjects: ME_phase1_excludqnadata_all.mat.
 
 The paths in this script require altering to point to the relevant folder in your local version of the repository. You would alter:
 
